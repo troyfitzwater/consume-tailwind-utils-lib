@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "@troyfitzwater/tailwind-utils-lib": "^1.0.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "scripts": {
+    "watch": "npx @tailwindcss/cli -i styles.css -o output.css --watch"
+  }
+}
