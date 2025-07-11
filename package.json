@@ -2,7 +2,7 @@
   "type": "module",
   "dependencies": {
     "@tailwindcss/cli": "^4.1.11",
-    "@troyfitzwater/tailwind-utils-lib": "^1.0.0",
+    "@troyfitzwater/tailwind-utils-lib": "^1.0.1",
     "tailwindcss": "^4.1.11"
   },
   "scripts": {
